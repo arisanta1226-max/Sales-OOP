@@ -36,7 +36,7 @@ $all_products  = $product->getAllProducts();
     <main class="row justify-content-center gx-0 my-auto">
         <div class="col-6">
             <div class="row">
-                <h2 class="col-7">PRODUCT LIST</h2>
+                <h2 class="col-7">PRODUCTS LIST</h2>
 
                 <div class="col-5 text-end ">
                     <button type="button" class="btn text-info btn-lg" data-bs-toggle="modal" data-bs-target="#Modal1"><i class="fa-solid fa-plus"></i></button>
